@@ -2,14 +2,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Agarwal</h1>
 <h3 align="center">A passionate frontend developer and Problem Solver.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-lab-andro&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-lab-andro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-lab-andro" alt="aditya-lab-andro" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Javascript , reactJs , web Dev**
+- 💬 Ask me about **Javascript ,Web world ,Java**
 
 - 📫 How to reach me **addyaditya745@gmail.com**
 
@@ -30,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-lab-andro&show_icons=true&locale=en" alt="aditya-lab-andro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-lab-andro&" alt="aditya-lab-andro" /></p>
+
