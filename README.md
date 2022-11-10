@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **addyaditya745@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14nsQQ615mvi0kk5szcelftYb7Z2xHDtu/view?usp=sharing](https://drive.google.com/file/d/14nsQQ615mvi0kk5szcelftYb7Z2xHDtu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kcnUYKP3khiVSSQPyo2EmOwIXWjl-DlE/view?usp=sharing](https://drive.google.com/file/d/1kcnUYKP3khiVSSQPyo2EmOwIXWjl-DlE/view?usp=sharing)
 
 - ⚡ Fun fact **Many owners of large tech companies loved video games as kids.**
 
